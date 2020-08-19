@@ -12,22 +12,8 @@ namespace AspNetCore
     using Microsoft.AspNetCore.Mvc;
     using Microsoft.AspNetCore.Mvc.Rendering;
     using Microsoft.AspNetCore.Mvc.ViewFeatures;
-#nullable restore
-#line 1 "C:\Users\trica\OneDrive\Documentos\RH\gesweb090\gesweb090\gesweb090\Views\_ViewImports.cshtml"
-using gesweb090;
-
-#line default
-#line hidden
-#nullable disable
-#nullable restore
-#line 2 "C:\Users\trica\OneDrive\Documentos\RH\gesweb090\gesweb090\gesweb090\Views\_ViewImports.cshtml"
-using gesweb090.Models;
-
-#line default
-#line hidden
-#nullable disable
+    using gesweb.modelos.ViewModels;
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"d6a5625cc8fb4476f348b0fe9041c550465d8bf9", @"/Views/Shared/Error.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"770ae579111ed8ca91b9f9e1fb532ba63f16b919", @"/Views/_ViewImports.cshtml")]
     public class Views_Shared_Error : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<ErrorViewModel>
     {
         #pragma warning disable 1998

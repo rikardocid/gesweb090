@@ -1,0 +1,14 @@
+C:\Users\trica\OneDrive\Documentos\RH\gesweb090\gesweb090\gesweb.accesodatos\bin\Debug\netcoreapp3.1\gesweb.accesodatos.deps.json
+C:\Users\trica\OneDrive\Documentos\RH\gesweb090\gesweb090\gesweb.accesodatos\bin\Debug\netcoreapp3.1\gesweb.accesodatos.dll
+C:\Users\trica\OneDrive\Documentos\RH\gesweb090\gesweb090\gesweb.accesodatos\obj\Debug\netcoreapp3.1\gesweb.accesodatos.csprojAssemblyReference.cache
+C:\Users\trica\OneDrive\Documentos\RH\gesweb090\gesweb090\gesweb.accesodatos\obj\Debug\netcoreapp3.1\gesweb.accesodatos.AssemblyInfoInputs.cache
+C:\Users\trica\OneDrive\Documentos\RH\gesweb090\gesweb090\gesweb.accesodatos\obj\Debug\netcoreapp3.1\gesweb.accesodatos.AssemblyInfo.cs
+C:\Users\trica\OneDrive\Documentos\RH\gesweb090\gesweb090\gesweb.accesodatos\bin\Debug\netcoreapp3.1\gesweb.accesodatos.pdb
+C:\Users\trica\OneDrive\Documentos\RH\gesweb090\gesweb090\gesweb.accesodatos\obj\Debug\netcoreapp3.1\gesweb.accesodatos.csproj.CoreCompileInputs.cache
+C:\Users\trica\OneDrive\Documentos\RH\gesweb090\gesweb090\gesweb.accesodatos\obj\Debug\netcoreapp3.1\gesweb.accesodatos.dll
+C:\Users\trica\OneDrive\Documentos\RH\gesweb090\gesweb090\gesweb.accesodatos\obj\Debug\netcoreapp3.1\gesweb.accesodatos.pdb
+C:\Users\trica\OneDrive\Documentos\RH\gesweb090\gesweb090\gesweb.accesodatos\bin\Debug\netcoreapp3.1\gesweb.modelos.dll
+C:\Users\trica\OneDrive\Documentos\RH\gesweb090\gesweb090\gesweb.accesodatos\bin\Debug\netcoreapp3.1\gesweb.utilidades.dll
+C:\Users\trica\OneDrive\Documentos\RH\gesweb090\gesweb090\gesweb.accesodatos\bin\Debug\netcoreapp3.1\gesweb.modelos.pdb
+C:\Users\trica\OneDrive\Documentos\RH\gesweb090\gesweb090\gesweb.accesodatos\bin\Debug\netcoreapp3.1\gesweb.utilidades.pdb
+C:\Users\trica\OneDrive\Documentos\RH\gesweb090\gesweb090\gesweb.accesodatos\obj\Debug\netcoreapp3.1\gesweb.accesodatos.csproj.CopyComplete

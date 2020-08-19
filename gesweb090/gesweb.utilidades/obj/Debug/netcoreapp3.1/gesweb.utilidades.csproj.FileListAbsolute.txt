@@ -1,0 +1,9 @@
+C:\Users\trica\OneDrive\Documentos\RH\gesweb090\gesweb090\gesweb.utilidades\bin\Debug\netcoreapp3.1\gesweb.utilidades.deps.json
+C:\Users\trica\OneDrive\Documentos\RH\gesweb090\gesweb090\gesweb.utilidades\bin\Debug\netcoreapp3.1\gesweb.utilidades.dll
+C:\Users\trica\OneDrive\Documentos\RH\gesweb090\gesweb090\gesweb.utilidades\bin\Debug\netcoreapp3.1\gesweb.utilidades.pdb
+C:\Users\trica\OneDrive\Documentos\RH\gesweb090\gesweb090\gesweb.utilidades\obj\Debug\netcoreapp3.1\gesweb.utilidades.AssemblyInfoInputs.cache
+C:\Users\trica\OneDrive\Documentos\RH\gesweb090\gesweb090\gesweb.utilidades\obj\Debug\netcoreapp3.1\gesweb.utilidades.AssemblyInfo.cs
+C:\Users\trica\OneDrive\Documentos\RH\gesweb090\gesweb090\gesweb.utilidades\obj\Debug\netcoreapp3.1\gesweb.utilidades.dll
+C:\Users\trica\OneDrive\Documentos\RH\gesweb090\gesweb090\gesweb.utilidades\obj\Debug\netcoreapp3.1\gesweb.utilidades.pdb
+C:\Users\trica\OneDrive\Documentos\RH\gesweb090\gesweb090\gesweb.utilidades\obj\Debug\netcoreapp3.1\gesweb.utilidades.csprojAssemblyReference.cache
+C:\Users\trica\OneDrive\Documentos\RH\gesweb090\gesweb090\gesweb.utilidades\obj\Debug\netcoreapp3.1\gesweb.utilidades.csproj.CoreCompileInputs.cache
